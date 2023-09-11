@@ -16,8 +16,6 @@ Clustering - Level
 
 Anomaly Detection - Level
 
-Association Rules Mining - Level
-
 Time Series Forecasting - Univariate without Exogenous Variables
 
 Time Series Forecasting - Univariate with Exogenous Variables
