@@ -18,7 +18,7 @@ Clustering - Level
 
 Anomaly Detection - Level
 
-Association Rules Mining - Level
+(**DEPRECATED - OUTPUT NOT AS INTENDED**) Association Rules Mining - Level
 
 Time Series Forecasting - Univariate without Exogenous Variables
 
