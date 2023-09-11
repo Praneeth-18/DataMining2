@@ -1,6 +1,6 @@
 # DataMining2
 
-**Assignment1** : [Youtube Link]()
+**Assignment1** : [Youtube Link](https://youtu.be/bIeW2SjJ_Kk)
 
 
 **Assignment2** :
