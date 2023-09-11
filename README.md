@@ -1,9 +1,9 @@
 # DataMining2
 
-Assignment1 - [Youtube Link]()
+**Assignment1** - [Youtube Link]()
 
 
-Assignment2:
+**Assignment2**:
 
 All the work is submitted in the form of notebooks(ipynb files) for the following Tasks:
 
