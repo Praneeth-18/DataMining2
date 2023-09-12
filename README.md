@@ -11,20 +11,20 @@
 All the work is submitted in the form of notebooks(ipynb files) for the following Tasks:
 
 
-Binary Classification - Level
+1) Binary Classification - Level
 
-Multiclass Classification - Level
+2) Multiclass Classification - Level
 
-Regression - Level
+3) Regression - Level
 
-Clustering - Level
+4) Clustering - Level
 
-Anomaly Detection - Level
+5) Anomaly Detection - Level
 
-(DEPRECATED - OUTPUT NOT AS INTENDED) Association Rules Mining - Level
+6) Association Rules Mining - Level (DEPRECATED - OUTPUT NOT AS INTENDED)
 
-Time Series Forecasting - Univariate without Exogenous Variables
+7) Time Series Forecasting - Univariate without Exogenous Variables
 
-Time Series Forecasting - Univariate with Exogenous Variables
+8) Time Series Forecasting - Univariate with Exogenous Variables
 
-Pycaret + Gradio example
+9) Pycaret + Gradio example
